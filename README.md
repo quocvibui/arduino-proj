@@ -1,4 +1,4 @@
-# Arduino project to detect distance of an object using sonar
+# 1. Arduino project to detect distance of an object using sonar
 ## Project created on a Mega using Elegoo's starter kit
 
 ### What you will need: 
